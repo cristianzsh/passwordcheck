@@ -31,4 +31,4 @@ if __name__ == "__main__":
         print("Your password has appeared {} times in the database.".format(result))
         print("Source: https://haveibeenpwned.com/")
     else:
-        print("You are safe!")
+        print("No occurrence of the password in the database.")
